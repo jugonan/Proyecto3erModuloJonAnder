@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BBFF1B49-7585-4543-9ECD-0C2C82ABC34F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto3erModulo/Models/Ubicacion.cs">
+    <Files>
+      <File FileName="Proyecto3erModulo/Models/Usuario.cs" Line="13" Column="19" />
+      <File FileName="Proyecto3erModulo/Models/Vendedor.cs" Line="12" Column="45" />
+      <File FileName="Proyecto3erModulo/Models/Ubicacion.cs" Line="9" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Proyecto3erModulo" expanded="True" selected="True">
+            <Node name="Proyecto3erModulo" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Proyecto3erModulo PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
